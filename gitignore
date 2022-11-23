@@ -1,2 +1,2 @@
 # exclude some files
-text.txt
+/test
